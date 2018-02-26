@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\28a7b9277ad6e92f141c6d1632d42cd5d7f58d53\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_444bae617144c8d5408358087772de6278e1f8a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\c027f26ff7b80dec4b5ee0df64620896a06870ac\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_65504d9d36d739395fa3bbe38f2493ebbe29147b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\parse-android-1.13.0_1ff29aabe59c5e9f9d21be608d53b4e655700439\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\86f60dfaba13c25ed0a5da8e47ab302c9c1813b6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_012df7b8e646699cc13b5c3e0eabe9e9c80f51bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\e46db4815fc10d0b6e7f531b820b3f13491f4364\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_397a9a27b837d620cc8abec1ad2cf001d3199765\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\9b04b080cf630c6bf163d8912dcfab9e068799ff\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_84e877391b77a362606f00eb4c01f99f2ab91abe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\393dc2eb534181f6b2155eb74421b0b77e34a355\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c3f7f8981f38e2c3be1e8eaae430449af415d553\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\aceccda8247a1b3ccf8978c08c228e04f335b2e7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f9a0cb61793bdac29fbdc036974134b50b8c82a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\77f9c52e7ec22016950c502f32adeeace187a773\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2051040e2588efde65f14fcc80ddeb56b6abaaf1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\483576aa49ef5ccda1f9d8144344cd1c7e41941e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ac2ea5bdb5a77ba66dccff22d56b8d22d432a788\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\f7d6a4b66581fd25f3247f109fe0c9d98ecb7e23\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_42f8b6ea5739108e38294baf2d14822974c2ef3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\15289c24a0d24c42a9ab4fb3437694b5fe63b407\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e2bb8830ccd40fea25d869f736a0e77252ba6269\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\f29ab9b2204fa909fb9c022d034c8d602b680afb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ab534daf2618dc2d00be94c7b538676ad49d9fb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\b3e0f5b95abff302978dd57ea8cf695985f35224\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a4a2e6b85072af0700f71b73909df3d356519b98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\2b8ffc2b059423bbc2cfbd657121d8588fcf2000\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2455c554bf628bf1dcbf47be270298d14d09f11b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\b93dc030c273a3ba4dfb6760d5ef4a2a066c80a8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2bba5b0c88da76a0077469c01981fbf3a44e72c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\14c305ae582d2f512e3ef6a8d03633b7afc941fa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f047cac61fdcf4c46ffda959bf3cd2c873c58e2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\6012626f54e2c9f9be92c98c82800720ec1064e5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6006f691bee9d6dbd35bf684c0e0671eb361cfd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\d6f9ce293b5a3bbd2d1ef8a1caf2992748a8e25d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4ea741d5d5326bbb3c48a0b2a5674b69ccf54307\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\f9f4493803303b5a03ffb3b31e542327efc8dab1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_99ad39ce0d6f60953ea11e54d77cd304af472f4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\8aeb875a587169027ac6b40467e0b25f79edfec8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_71b14a2ee4bebeaea14152f99582c72e07cc2e0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\a9a103d199bede11e4ef27e6c0c1a010d931f3f2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9cc96857e88c94ede2bc47b27a49ef536d8179e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\1c4cb6cc677a631168ae0bfa70c99b476fac2f26\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_89e1a38bb87229c3b0b026200cfe3a8815e218fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\8a055a35623c794b29d67a8d82a92ce5b16ffa6a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_97bb72025756f39d21d7df39dbdb71829346c2e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\f73ba796d014dec5a0ee16ee17c0e91a298ea83c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ac522807a140e93fa56806fb025c1369a9d51403\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\cc8855aac2f8f9cdcc8edfc269e5b8cffad99f1b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0025f2fa9c0482144faaea2847a94a2e41acab95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\9140005c4f202facd93d6983a53170fe18c803c0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0bb5f3867da50fc22aa3e753d462c590540d9766\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\b729a50b346a6c8bd6852cba82343a359f7f7782\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_98429271d379036987c67ccacca47a6e1ebee26c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\bba7ea5ec297b82415bc64bc4a90962b5fbf805d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_be6dcca8c72fbf7eec8381c1a6c5e888003fde3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_25ecbf758fd973cd4f2f0e03ba1fa35adc4065b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\64fe1f1a7fe1ef3e91f22c5c8cd22d4cb9105748\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a6d3e83604018c90fc880f5a6ff55a4e0321ccc6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\206eb35c58bd165a19519b42147607172d6ac1c2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_25e1ed96b2595a1b14e22a68be7bcd581b9b7b06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\9d6297d735e411a02b6d80f5028da193966fdecd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_59af86c965198c9ed7253163320f075fb0dccc82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="411bc08b46870010a1699fe6d68b051777fdb04b">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_41d1f14dc5dc7733f23360dd18bf38a148a83ab1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\bdaf67f77de93824e05d290650acd398de593a6f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_946020d4fd6ef1e20bdafbab97bbc8336ceb23ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\b1dc78d7558017cbfa252ece929c3ffdbb1ed446\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_472b1e0c8e7c33e5f43c502ff864427ca7966e7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\739c27ffcdbefcc8c68a753cb9ba189cfdd74d77\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aee6c01a4eef4dd87ccffd2f3fb647b89077fbb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\52d8e6e7ff024677ccfcf64523ca6b2a3cfe40e9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ac2435daf80c291a99c28da6583cb090c63f4664\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\27669e7f4b3c48a3c55721a3e9c6930007c7e209\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8d6f8e6f3c53acc62c36dd25b14d28ceb54ecabd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\e718ac5233d1585b47c3a00a78b39d70fd6126c0\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_21e9cb204b3dc4dad89a8149a1e61f6e6bb71abc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\7155c77d62a30071a6678156579ce868ec6dfe3d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9fd82fdcb1809f33de9042d85bc78875d8e1b241\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\2a09335f6ef33336156c8913716f2c79ad5672aa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7956b0719ab79d8505372b9055e140c4fa38169e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\58c90c6185b78ec7b35efa13ca872cdd287e8f2e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5d52ddabe5784decb4adba1060d8f2095a60f094\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\e718ac5233d1585b47c3a00a78b39d70fd6126c0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1a7ff234155ba89aadd5200d4b6840d7edcb31b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\2e247a9c18235df87d0ce59d1a64336b316cd469\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1fce687a8c1af3251629304be5ea3d972e15389a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\f274e7ee00f5579818e1a2b4477d1e2007d12119\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6b8109e6fbc14797bccad0c0712d4b348ddf1fda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ANDROID\android_sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_43b1c44ddd8bc2c8888b8b5cbbd588991fa78e44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_307566ed805ac757690fd93f1173f8c232c01ef6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\bdbff02849aa8fdc46cb6fab87c49ed94cdb466d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_30ab9fdc3b6d49403001a25d5176b8f1fcd1a351\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\44853990405e0c5d44ea980187d4cedf8038e7cb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1b4a643b41265212965844c2bd5bc1c65f53b95d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\4ce1c1b05458705945bdb7be456ad95029d9e97a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4dd998ff302c3093b159094714950267904283d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\9b04d15d6bf5b059596f9e37e978ba4454c413fd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_79cfcc9fa8b641c84b7806cac7fc0bfbcc2f9b32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\37f5e81435237e955ea2e7baf3be8702e7a47a03\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c01c14654f5afcff56c623e217416e2928cf8d11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\41013b352e2031e2da0b0cf48979a4ce3bb740dc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6b48521abe538c6412bca3454d1355128476d504\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\c027f26ff7b80dec4b5ee0df64620896a06870ac\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2d327619c50ce8c75fdd5ba67aad7f5685190883\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\62a0a1013e02b0a7701358ceeb360295f123e3ff\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4d449deeddc9243bdecf4978420764be6bb126a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\0a0ad7cebf74f4376578be6e2d38673e88364d67\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6180ce7c1d998f9b8a515dbde5723bba522b215a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\1f1aa389cb1110f4bc91061b537d22560ff4f80b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5b7dd477c7630ac4bdb4f8e1037efac6db8aae11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\b2e61d837b43510755a264727bd65b28a980e5be\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_da6f2410f15de712fbb7b994444d0cfee10332ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\61765cfe8505eb9996e7d3557614d0f3263616f4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_95c06e75e75cb2703423a79b0b4d7ee0852e4532\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Goluu\.android\build-cache\4befb26f74ec51e4fd0320cde6865d4845817e61\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="F:\ANDROID\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_258747c1564edd8057e8c14b155bcd638cc91e71\classes.dex" />
+    </item>
+
+</items>
